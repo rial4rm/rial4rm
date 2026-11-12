@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=EF4444&center=true&vCenter=true&width=720&lines=Web+%26+application+penetration+testing;Reverse+engineering+with+IDA+%2B+debuggers;Next.js+%2B+React+%2B+Go+full-stack;FiveM+systems+%28side+quest%29"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=EF4444&center=true&vCenter=true&width=720&lines=Web+%26+application+penetration+testing;Reverse+engineering+with+IDA+%2B+debuggers;Next.js+%2B+React+%2B+Go+full-stack;Windows+kernel+%26+game+security"
     alt="Typing SVG"
   />
 </p>
@@ -47,10 +47,6 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### FiveM (side)
-
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white) ![CfxLua](https://img.shields.io/badge/CfxLua-1F2937?style=for-the-badge&logo=lua&logoColor=white) ![NUI](https://img.shields.io/badge/NUI-2B2D42?style=for-the-badge&logo=react&logoColor=61DAFB) ![ox_lib](https://img.shields.io/badge/ox__lib-2B2D42?style=for-the-badge) ![oxmysql](https://img.shields.io/badge/oxmysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ## 🧭 What I Do
@@ -59,8 +55,7 @@
 - **Reverse engineering** — static and dynamic analysis of applications and runtimes with IDA Pro and debuggers.
 - **Systems programming** — C++ / C# / Go tooling around Windows internals, IPC and process-level work.
 - **Full-stack development** — Next.js / React / TypeScript frontends with Go or Node APIs and SQL/Postgres storage; PHP for earlier web work.
-- **Game security research** — binary and memory analysis, reverse engineering of game clients and related tooling.
-- **FiveM** — server-side Lua and custom NUI.
+- **Game security &amp; kernel research** — binary and memory analysis, kernel-level tooling (driver mapping, IOCTL, process protection), reverse engineering of game clients and anti-cheat internals.
 
 ---
 
